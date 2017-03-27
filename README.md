@@ -23,3 +23,6 @@ http://www.wolferesearch.com/
 https://websim.worldquantchallenge.com/en/cms/wqc/home/
 
 http://www.cargometrics.com/
+
+https://www.youtube.com/watch?v=2pWv7GOvuf0
+
