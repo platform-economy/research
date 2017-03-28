@@ -30,3 +30,5 @@ https://www.kaggle.com/c/two-sigma-financial-modeling
 
 https://ethereum.org/
 
+https://levelwander.blogspot.com/
+
