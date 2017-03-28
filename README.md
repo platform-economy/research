@@ -27,3 +27,6 @@ http://www.cargometrics.com/
 https://www.youtube.com/watch?v=2pWv7GOvuf0
 
 https://www.kaggle.com/c/two-sigma-financial-modeling
+
+https://ethereum.org/
+
