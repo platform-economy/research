@@ -39,3 +39,5 @@ https://interactivebrokers.github.io/tws-api/
 https://gnosis.pm/
 
 Calculus: https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg => Professor Leonard
+
+Sebastian Zadora Automaty https://vimeo.com/25289490
