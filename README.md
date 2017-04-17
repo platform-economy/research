@@ -46,4 +46,6 @@ https://aws.amazon.com/machine-learning/
 
 http://pandas.pydata.org/
 
+Founder of IB https://en.wikipedia.org/wiki/Thomas_Peterffy
+
 
