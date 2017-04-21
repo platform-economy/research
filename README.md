@@ -54,5 +54,7 @@ https://robotwealth.com/recommended-reading/
 
 https://github.com/OpenHFT
 
+https://www.quantstart.com/
 
+https://lectures.quantecon.org/
 
