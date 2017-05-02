@@ -60,3 +60,7 @@ https://lectures.quantecon.org/
 
 https://tickstory.com/download-tickstory/
 
+# Kryptowaluty
+
+https://www.worldcoinindex.com/
+
