@@ -70,3 +70,10 @@ https://www.worldcoinindex.com/
 
 http://www.silverlake.com/
 
+
+# Calculus
+
+https://www.khanacademy.org/math/calculus-home
+
+
+
