@@ -68,6 +68,8 @@ https://www.worldcoinindex.com
 
 https://fbs.com - BTCUSD na MetaTrader
 
+https://localbitcoins.com/
+
 ## Kopanie oraz przechowywanie
 
 https://pik-online.pl/
