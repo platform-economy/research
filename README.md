@@ -72,6 +72,10 @@ https://localbitcoins.com/
 
 http://www.newsbtc.com/
 
+https://bittrex.com/
+
+https://poloniex.com/
+
 ## Kopanie oraz przechowywanie
 
 https://pik-online.pl/
@@ -86,6 +90,7 @@ http://whattomine.com/
 
 http://www.silverlake.com/
 
+http://blockchain.capital/
 
 # Calculus
 
