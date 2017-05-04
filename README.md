@@ -70,6 +70,8 @@ https://fbs.com - BTCUSD na MetaTrader
 
 https://localbitcoins.com/
 
+http://www.newsbtc.com/
+
 ## Kopanie oraz przechowywanie
 
 https://pik-online.pl/
