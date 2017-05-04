@@ -66,6 +66,10 @@ https://tickstory.com/download-tickstory/
 
 https://www.worldcoinindex.com/
 
+## Kopanie
+
+https://pik-online.pl/
+
 # Funds
 
 http://www.silverlake.com/
