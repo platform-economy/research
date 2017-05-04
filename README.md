@@ -64,7 +64,9 @@ https://tickstory.com/download-tickstory/
 
 # Kryptowaluty
 
-https://www.worldcoinindex.com/
+https://www.worldcoinindex.com
+
+https://fbs.com - BTCUSD na MetaTrader
 
 ## Kopanie oraz przechowywanie
 
