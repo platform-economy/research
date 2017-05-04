@@ -72,6 +72,8 @@ https://pik-online.pl/
 
 https://cryptosteel.com/
 
+https://blog.trezor.io/satoshilabs-launches-trezor-password-manager-the-ultimately-secure-no-master-password-cloud-1b260e5fbe6b
+
 
 # Funds
 
