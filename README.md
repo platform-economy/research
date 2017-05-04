@@ -66,9 +66,12 @@ https://tickstory.com/download-tickstory/
 
 https://www.worldcoinindex.com/
 
-## Kopanie
+## Kopanie oraz przechowywanie
 
 https://pik-online.pl/
+
+https://cryptosteel.com/
+
 
 # Funds
 
