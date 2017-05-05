@@ -86,6 +86,8 @@ https://blog.trezor.io/satoshilabs-launches-trezor-password-manager-the-ultimate
 
 http://whattomine.com/
 
+https://www.prominer.website/
+
 # Funds
 
 http://www.silverlake.com/
