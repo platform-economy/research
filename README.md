@@ -76,6 +76,8 @@ https://bittrex.com/
 
 https://poloniex.com/
 
+https://www.bitfinex.com/
+
 ## Kopanie oraz przechowywanie
 
 https://poloniex.com/
