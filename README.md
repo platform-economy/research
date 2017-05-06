@@ -78,6 +78,8 @@ https://poloniex.com/
 
 ## Kopanie oraz przechowywanie
 
+https://poloniex.com/
+
 https://pik-online.pl/
 
 https://cryptosteel.com/
