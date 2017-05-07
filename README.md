@@ -94,6 +94,16 @@ https://www.prominer.website/
 
 API: https://github.com/bitmarket-net/api
 
+Ministerstwo Cyfryzacji: https://mc.gov.pl/projekty/od-papierowej-do-cyfrowej-polski/strumien-blockchain-i-kryptowaluty
+
+http://www.wardynski.com.pl/w_publication/blockchain-inteligentne-kontrakty-i-dao/
+
+## Projekty 
+
+http://www.the-blockchain.com/docs/Hyperledger%20Whitepaper.pdf
+
+
+
 ## Portfele 
 
 https://www.bitaddress.org
