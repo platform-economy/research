@@ -94,6 +94,11 @@ https://www.prominer.website/
 
 API: https://github.com/bitmarket-net/api
 
+## Portfele 
+
+https://www.bitaddress.org
+
+
 # Funds
 
 http://www.silverlake.com/
