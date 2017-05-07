@@ -92,6 +92,8 @@ http://whattomine.com/
 
 https://www.prominer.website/
 
+API: https://github.com/bitmarket-net/api
+
 # Funds
 
 http://www.silverlake.com/
