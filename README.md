@@ -98,6 +98,10 @@ Ministerstwo Cyfryzacji: https://mc.gov.pl/projekty/od-papierowej-do-cyfrowej-po
 
 http://www.wardynski.com.pl/w_publication/blockchain-inteligentne-kontrakty-i-dao/
 
+## Poznaj kryptowaluty
+
+https://blockgeeks.com/guides/
+
 ## Projekty 
 
 ICO's http://icorating.com/
