@@ -100,6 +100,8 @@ http://www.wardynski.com.pl/w_publication/blockchain-inteligentne-kontrakty-i-da
 
 ## Projekty 
 
+ICO's http://icorating.com/
+
 http://www.the-blockchain.com/docs/Hyperledger%20Whitepaper.pdf
 
 
