@@ -121,6 +121,11 @@ http://www.silverlake.com/
 
 http://blockchain.capital/
 
+# DAAPS programming
+
+https://dappsforbeginners.wordpress.com/
+
+
 # Calculus
 
 https://www.khanacademy.org/math/calculus-home
