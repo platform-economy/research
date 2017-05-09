@@ -64,6 +64,8 @@ https://tickstory.com/download-tickstory/
 
 # Kryptowaluty
 
+https://www.reddit.com/r/ethtrader/
+
 https://www.worldcoinindex.com
 
 https://fbs.com - BTCUSD na MetaTrader
@@ -90,9 +92,13 @@ https://blog.trezor.io/satoshilabs-launches-trezor-password-manager-the-ultimate
 
 http://whattomine.com/
 
+https://ethtrade.org/education
+
 https://www.prominer.website/
 
 API: https://github.com/bitmarket-net/api
+
+https://nevbit.com/klucze-api-info
 
 Ministerstwo Cyfryzacji: https://mc.gov.pl/projekty/od-papierowej-do-cyfrowej-polski/strumien-blockchain-i-kryptowaluty
 
@@ -115,11 +121,14 @@ http://www.the-blockchain.com/docs/Hyperledger%20Whitepaper.pdf
 https://www.bitaddress.org
 
 
-# Funds
+# Funds and loans
 
 http://www.silverlake.com/
 
 http://blockchain.capital/
+
+https://btcpop.co
+
 
 # DAAPS programming
 
