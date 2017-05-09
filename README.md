@@ -80,6 +80,11 @@ https://poloniex.com/
 
 https://www.bitfinex.com/
 
+### ETH
+
+https://www.ethnews.com/etherlive
+
+
 ## Kopanie oraz przechowywanie
 
 https://poloniex.com/
@@ -107,6 +112,8 @@ http://www.wardynski.com.pl/w_publication/blockchain-inteligentne-kontrakty-i-da
 ## Poznaj kryptowaluty
 
 https://blockgeeks.com/guides/
+
+Gartner: http://www.gartner.com/technology/research/blockchain
 
 ## Projekty 
 
@@ -139,5 +146,5 @@ https://dappsforbeginners.wordpress.com/
 
 https://www.khanacademy.org/math/calculus-home
 
-
+https://pl.wikipedia.org/wiki/Rachunek_lambda
 
