@@ -80,6 +80,8 @@ https://poloniex.com/
 
 https://www.bitfinex.com/
 
+https://tradeblock.com/markets/
+
 ### ETH
 
 https://www.ethnews.com/etherlive
