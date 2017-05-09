@@ -141,6 +141,10 @@ https://btcpop.co
 
 https://dappsforbeginners.wordpress.com/
 
+## Slack channels
+
+https://blockchainbytes.slack.com
+
 
 # Calculus
 
