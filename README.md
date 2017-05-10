@@ -82,7 +82,11 @@ https://www.bitfinex.com/
 
 https://tradeblock.com/markets/
 
-### ETH
+## ETH
+
+### Kopanie
+
+https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-and-irc
 
 http://ethereum.pl/
 
@@ -90,6 +94,7 @@ https://www.ethnews.com/etherlive
 
 Ether scan: https://etherscan.io/
 
+## Litecoin
 
 ## Kopanie oraz przechowywanie
 
