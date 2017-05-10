@@ -84,6 +84,8 @@ https://tradeblock.com/markets/
 
 ### ETH
 
+http://ethereum.pl/
+
 https://www.ethnews.com/etherlive
 
 
