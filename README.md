@@ -88,6 +88,8 @@ http://ethereum.pl/
 
 https://www.ethnews.com/etherlive
 
+Ether scan: https://etherscan.io/
+
 
 ## Kopanie oraz przechowywanie
 
