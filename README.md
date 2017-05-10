@@ -145,6 +145,9 @@ https://btcpop.co
 
 https://dappsforbeginners.wordpress.com/
 
+https://github.com/ethereum/web3.js/
+
+
 ## Slack channels
 
 https://blockchainbytes.slack.com
