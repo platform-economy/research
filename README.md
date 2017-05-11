@@ -82,7 +82,10 @@ https://www.bitfinex.com/
 
 https://tradeblock.com/markets/
 
-## ETH
+## 
+
+https://www.gitbook.com/book/ethereum/frontier-guide/details
+
 
 ### Kopanie
 
