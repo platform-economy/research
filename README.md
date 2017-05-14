@@ -161,6 +161,7 @@ https://github.com/ethereum/web3.js/
 
 https://www.reddit.com/r/ethereum/comments/3khekf/good_solidity_tutorials/
 
+https://bitcore.io
 
 ## Slack channels
 
