@@ -78,6 +78,8 @@ https://bittrex.com/
 
 https://poloniex.com/
 
+https://www.coinbase.com/
+
 https://www.bitfinex.com/
 
 https://tradeblock.com/markets/
