@@ -177,3 +177,7 @@ https://www.khanacademy.org/math/calculus-home
 
 https://pl.wikipedia.org/wiki/Rachunek_lambda
 
+## Charts and data
+
+http://coinmarketcap.com/charts/#dominance-percentage
+
