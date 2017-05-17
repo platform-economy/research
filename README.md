@@ -141,6 +141,8 @@ https://interledger.org/
 
 https://etherian.world/
 
+17.05 ICO https://aragon.network/
+
 ## Portfele 
 
 https://mycelium.com/
