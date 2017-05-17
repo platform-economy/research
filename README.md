@@ -167,6 +167,8 @@ https://www.reddit.com/r/ethereum/comments/3khekf/good_solidity_tutorials/
 
 https://bitcore.io
 
+https://github.com/monkeyscage/PERFECT-EMPTY-DAPP
+
 ## Slack channels
 
 https://blockchainbytes.slack.com
