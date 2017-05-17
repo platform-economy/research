@@ -64,6 +64,8 @@ https://tickstory.com/download-tickstory/
 
 # Kryptowaluty
 
+Unconfirmed transactions: https://blockchain.info/unconfirmed-transactions?_=THANKS-BLOCKSTREAM
+
 https://www.reddit.com/r/ethtrader/
 
 https://www.worldcoinindex.com
@@ -114,6 +116,14 @@ https://blog.trezor.io/satoshilabs-launches-trezor-password-manager-the-ultimate
 http://whattomine.com/
 
 https://ethtrade.org/education
+
+### Aplikacje przydatne
+
+https://tab-trader.com/
+
+PoloTracker https://play.google.com/store/apps/details?id=jonathan.veg.poloniextracker&hl=pl
+
+
 
 https://www.prominer.website/
 
