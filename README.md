@@ -103,6 +103,8 @@ Ether scan: https://etherscan.io/
 
 !!! https://coinmarketcap.com/currencies/ethereum/#markets
 
+https://cryptocurrencyupdates.blogspot.com/2017/05/best-gpu-models-for-ethereum-and-other.html
+
 ## Litecoin
 
 ## Kopanie oraz przechowywanie
