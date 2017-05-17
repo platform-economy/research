@@ -198,3 +198,8 @@ https://pl.wikipedia.org/wiki/Rachunek_lambda
 
 http://coinmarketcap.com/charts/#dominance-percentage
 
+
+
+
+
+https://blockchain.info/tx-index/7605588fcf36a6d77601488e0386eb3a4fcbfcbed2cab542adc2bba43f6d8811
