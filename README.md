@@ -101,6 +101,8 @@ https://www.ethnews.com/etherlive
 
 Ether scan: https://etherscan.io/
 
+!!! https://coinmarketcap.com/currencies/ethereum/#markets
+
 ## Litecoin
 
 ## Kopanie oraz przechowywanie
