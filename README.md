@@ -105,6 +105,8 @@ Ether scan: https://etherscan.io/
 
 https://cryptocurrencyupdates.blogspot.com/2017/05/best-gpu-models-for-ethereum-and-other.html
 
+https://www.nicehash.com/
+
 ## Litecoin
 
 ## Kopanie oraz przechowywanie
