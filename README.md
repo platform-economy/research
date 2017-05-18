@@ -1,5 +1,7 @@
 # quantfundpl-awesome-links
 
+https://btctheory.com/
+
 http://www.quantbe.com/
 
 https://panteracapital.com/
@@ -146,9 +148,15 @@ After that, you can read the readme.txt and if you want, you can add additional 
 
 Now, if you would like to donate a beer to me.. hit me up : 
 
+#### Monero
+
+!!!!!!!!!! POMYŚLEĆ
+
 ## Litecoin
 
 ## Kopanie oraz przechowywanie
+
+Tool to mine https://www.nicehash.com/
 
 https://poloniex.com/
 
@@ -161,6 +169,8 @@ https://blog.trezor.io/satoshilabs-launches-trezor-password-manager-the-ultimate
 http://whattomine.com/
 
 https://ethtrade.org/education
+
+Kalkulator http://www.coinwarz.com/cryptocurrency
 
 ### Aplikacje przydatne
 
@@ -198,6 +208,12 @@ https://etherian.world/
 
 17.05 ICO https://aragon.network/
 
+### NeuFund
+
+https://github.com/Neufund/ESOP
+
+https://neufund.org/esop/
+
 ## Portfele 
 
 https://mycelium.com/
@@ -225,6 +241,8 @@ https://www.reddit.com/r/ethereum/comments/3khekf/good_solidity_tutorials/
 https://bitcore.io
 
 https://github.com/monkeyscage/PERFECT-EMPTY-DAPP
+
+http://orisi.org/
 
 ## Slack channels
 
