@@ -208,7 +208,7 @@ https://etherian.world/
 
 17.05 ICO https://aragon.network/
 
-https://github.com/swarmcity
+https://github.com/swarmcity - https://youtu.be/S2ZOh_hokvw?t=4430
 
 ### NeuFund
 
