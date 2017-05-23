@@ -68,6 +68,8 @@ https://tickstory.com/download-tickstory/
 
 Unconfirmed transactions: https://blockchain.info/unconfirmed-transactions?_=THANKS-BLOCKSTREAM
 
+https://en.bitcoin.it/wiki/Value_overflow_incident
+
 https://www.reddit.com/r/ethtrader/
 
 https://www.worldcoinindex.com
