@@ -66,6 +66,8 @@ https://tickstory.com/download-tickstory/
 
 # Kryptowaluty
 
+!!! Accelerator https://www.viabtc.com
+
 Unconfirmed transactions: https://blockchain.info/unconfirmed-transactions?_=THANKS-BLOCKSTREAM
 
 https://en.bitcoin.it/wiki/Value_overflow_incident
