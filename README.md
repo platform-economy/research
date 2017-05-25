@@ -265,7 +265,9 @@ https://pl.wikipedia.org/wiki/Rachunek_lambda
 
 http://coinmarketcap.com/charts/#dominance-percentage
 
+## ICOs, trading
 
+https://tokenmarket.net/ico-calendar
 
 
 
