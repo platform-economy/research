@@ -196,6 +196,8 @@ http://www.wardynski.com.pl/w_publication/blockchain-inteligentne-kontrakty-i-da
 
 ## Poznaj kryptowaluty
 
+https://coin.dance/
+
 https://blockgeeks.com/guides/
 
 Gartner: http://www.gartner.com/technology/research/blockchain
