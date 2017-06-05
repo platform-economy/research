@@ -252,6 +252,8 @@ https://github.com/monkeyscage/PERFECT-EMPTY-DAPP
 
 http://orisi.org/
 
+IDE plugin https://github.com/juanfranblanco/vscode-solidity
+
 ## Slack channels
 
 https://blockchainbytes.slack.com
