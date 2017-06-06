@@ -226,6 +226,8 @@ https://neufund.org/esop/
 
 https://mycelium.com/
 
+https://jaxx.io/
+
 https://www.bitaddress.org
 
 https://etherdelta.github.io
