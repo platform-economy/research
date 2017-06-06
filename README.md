@@ -222,12 +222,13 @@ https://github.com/Neufund/ESOP
 
 https://neufund.org/esop/
 
-## Portfele 
+## Portfele oraz giełdy
 
 https://mycelium.com/
 
 https://www.bitaddress.org
 
+https://etherdelta.github.io
 
 # Funds and loans
 
