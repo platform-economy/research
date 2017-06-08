@@ -160,6 +160,8 @@ Now, if you would like to donate a beer to me.. hit me up :
 
 ## Kopanie oraz przechowywanie
 
+https://etc.nanopool.org/
+
 Tool to mine https://www.nicehash.com/
 
 https://poloniex.com/
@@ -175,6 +177,8 @@ http://whattomine.com/
 https://ethtrade.org/education
 
 Kalkulator http://www.coinwarz.com/cryptocurrency
+
+https://wallet.mycelium.com/
 
 ### Aplikacje przydatne
 
