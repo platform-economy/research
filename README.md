@@ -236,6 +236,8 @@ https://www.bitaddress.org
 
 https://etherdelta.github.io
 
+https://www.gdax.com/ - short ETH
+
 # Funds and loans
 
 http://www.silverlake.com/
