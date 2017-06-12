@@ -105,6 +105,8 @@ http://ethereum.pl/
 
 https://www.ethnews.com/etherlive
 
+!!! [ETH] https://timesofethereum.com/
+
 Ether scan: https://etherscan.io/
 
 !!! https://coinmarketcap.com/currencies/ethereum/#markets
