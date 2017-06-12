@@ -265,6 +265,8 @@ http://orisi.org/
 
 IDE plugin https://github.com/juanfranblanco/vscode-solidity
 
+ETH https://dapps.ethercasts.com/
+
 ## Slack channels
 
 https://blockchainbytes.slack.com
