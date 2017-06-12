@@ -66,6 +66,8 @@ https://tickstory.com/download-tickstory/
 
 # Kryptowaluty
 
+Monitor All in One https://cryptowat.ch/
+
 !!! Accelerator https://www.viabtc.com
 
 Unconfirmed transactions: https://blockchain.info/unconfirmed-transactions?_=THANKS-BLOCKSTREAM
