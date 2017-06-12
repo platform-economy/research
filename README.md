@@ -269,6 +269,9 @@ IDE plugin https://github.com/juanfranblanco/vscode-solidity
 
 ETH https://dapps.ethercasts.com/
 
+https://www.ethereum.org/token
+
+
 ## Slack channels
 
 https://blockchainbytes.slack.com
