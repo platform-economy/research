@@ -190,7 +190,7 @@ https://tab-trader.com/
 
 PoloTracker https://play.google.com/store/apps/details?id=jonathan.veg.poloniextracker&hl=pl
 
-
+https://www.techpowerup.com/gpuz/
 
 https://www.prominer.website/
 
