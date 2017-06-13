@@ -212,6 +212,8 @@ Gartner: http://www.gartner.com/technology/research/blockchain
 
 ## Projekty 
 
+http://maxkordek.com/expo.pdf
+
 ICO's http://icorating.com/
 
 http://www.the-blockchain.com/docs/Hyperledger%20Whitepaper.pdf
