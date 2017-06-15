@@ -275,6 +275,8 @@ https://www.ethereum.org/token
 
 https://github.com/binary-signal/Ethereum-Tracker
 
+http://zeltsinger.com/?subscribe=already#blog_subscription-2
+
 
 ## Slack channels
 
@@ -298,3 +300,10 @@ https://tokenmarket.net/ico-calendar
 
 
 https://blockchain.info/tx-index/7605588fcf36a6d77601488e0386eb3a4fcbfcbed2cab542adc2bba43f6d8811
+
+
+# Praca
+
+https://stackoverflow.com/jobs/companies/etcdev-team
+
+
