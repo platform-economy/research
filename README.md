@@ -1,5 +1,7 @@
 # quantfundpl-awesome-links
 
+https://pl.wikipedia.org/wiki/System_rezerw_cz%C4%85stkowych
+
 https://btctheory.com/
 
 http://www.quantbe.com/
