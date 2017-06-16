@@ -307,3 +307,9 @@ https://blockchain.info/tx-index/7605588fcf36a6d77601488e0386eb3a4fcbfcbed2cab54
 https://stackoverflow.com/jobs/companies/etcdev-team
 
 
+
+# Quant Trading
+
+https://wqu.org/program/
+
+
