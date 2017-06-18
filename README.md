@@ -102,6 +102,8 @@ https://www.bitfinex.com/
 
 https://tradeblock.com/markets/
 
+http://www.german-eth.com/
+
 ## 
 
 https://www.gitbook.com/book/ethereum/frontier-guide/details
