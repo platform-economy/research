@@ -72,6 +72,8 @@ https://tickstory.com/download-tickstory/
 
 # Kryptowaluty
 
+https://bitcoinmagazine.com/
+
 https://github.com/Scanate/EthList#getting-started
 
 Monitor All in One https://cryptowat.ch/
