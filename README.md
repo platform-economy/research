@@ -309,6 +309,8 @@ http://coinmarketcap.com/charts/#dominance-percentage
 
 ## ICOs, trading
 
+https://www.icoalert.com/
+
 https://tokenmarket.net/ico-calendar
 
 
