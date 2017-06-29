@@ -269,6 +269,8 @@ https://btcpop.co
 
 # DAAPS programming
 
+https://theethereum.wiki/w/index.php/Main_Page
+
 https://dappsforbeginners.wordpress.com/
 
 https://github.com/ethereum/web3.js/
