@@ -72,6 +72,8 @@ https://tickstory.com/download-tickstory/
 
 # Kryptowaluty
 
+https://bitcoinwisdom.com/
+
 https://bitcoinmagazine.com/
 
 https://github.com/Scanate/EthList#getting-started
