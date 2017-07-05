@@ -115,7 +115,7 @@ https://www.gitbook.com/book/ethereum/frontier-guide/details
 
 ### Kopanie
 
-https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-and-irc
+Coding: https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-and-irc
 
 http://ethereum.pl/
 
