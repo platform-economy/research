@@ -317,9 +317,10 @@ https://www.icoalert.com/
 
 https://tokenmarket.net/ico-calendar
 
+# Smart contracts
 
+https://www.rinkeby.io/#stats
 
-https://blockchain.info/tx-index/7605588fcf36a6d77601488e0386eb3a4fcbfcbed2cab542adc2bba43f6d8811
 
 
 # Praca
