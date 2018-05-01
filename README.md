@@ -131,6 +131,9 @@ https://cryptocurrencyupdates.blogspot.com/2017/05/best-gpu-models-for-ethereum-
 
 https://www.nicehash.com/
 
+http://www.mycryptobuddy.com/EthereumMiningCalculator
+
+
 #### ETH
 For the people who are attempting to solo mine with a less than 3 GPU rig, you're better off pool mining. Your odds of cracking a block with 20-30Mhz is going to be like 1 in 1 million.. so, do the math on that and it's going to take you quite awhile for having your computer on.. 
 
