@@ -330,6 +330,7 @@ https://www.rinkeby.io/#stats
 
 https://stackoverflow.com/jobs/companies/etcdev-team
 
+https://github.com/ethereumproject/volunteer/issues/27
 
 
 # Quant Trading
