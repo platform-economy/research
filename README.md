@@ -324,7 +324,7 @@ https://tokenmarket.net/ico-calendar
 
 https://www.rinkeby.io/#stats
 
-
+https://consensys.github.io/smart-contract-best-practices/
 
 # Praca
 
