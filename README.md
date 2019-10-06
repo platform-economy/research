@@ -1,5 +1,7 @@
 # quantfundpl-awesome-links
 
+https://www.initc3.org/publications.html
+
 https://en.wikipedia.org/wiki/Volcker_Rule
 
 https://en.wikipedia.org/wiki/Token_economy
