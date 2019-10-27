@@ -1,4 +1,4 @@
-# quantfundpl-awesome-links
+https://lbc.cryptoguru.org/about
 
 https://www.initc3.org/publications.html
 
@@ -37,8 +37,6 @@ http://www.cargometrics.com/
 https://www.youtube.com/watch?v=2pWv7GOvuf0
 
 https://www.kaggle.com/c/two-sigma-financial-modeling
-
-https://ethereum.org/
 
 https://levelwander.blogspot.com/
 
@@ -136,54 +134,7 @@ https://www.nicehash.com/
 http://www.mycryptobuddy.com/EthereumMiningCalculator
 
 
-#### ETH
-For the people who are attempting to solo mine with a less than 3 GPU rig, you're better off pool mining. Your odds of cracking a block with 20-30Mhz is going to be like 1 in 1 million.. so, do the math on that and it's going to take you quite awhile for having your computer on.. 
-
-If you're wanting to mine into a pool, I suggest you create a wallet at : https://www.myetherwallet.com/ (takes 30 seconds) save the JSON file to your desktop (this is how you access your wallet and don't forget your password)
-
-Next step is decide on the pool you want to mine with.. Dwarfpool, Nanopool (https://nanopool.org/) (I personally use this), and several others out there.. 
-
-Let's use Nano Pool as the next example, one there click on Ethereum - > Help - > Download Claymore Miner - > install 
-
-Next edit the start.bat file (there are several be sure to edit the Eth only for eth only)
-
-Next type in :
-
-setx GPU_FORCE_64BIT_PTR 0
-setx GPU_MAX_HEAP_SIZE 100
-setx GPU_USE_SYNC_OBJECTS 1
-setx GPU_MAX_ALLOC_PERCENT 100
-setx GPU_SINGLE_ALLOC_PERCENT 100
-
-EthDcrMiner64.exe -epool eth-us-east1.nanopool.org:9999 -ewal YOUR_WALLET/YOUR_WORKER/YOUR_EMAIL
-
-----
-
-Here's of an example of how it should look :
-
-setx GPU_FORCE_64BIT_PTR 0
-setx GPU_MAX_HEAP_SIZE 100
-setx GPU_USE_SYNC_OBJECTS 1
-setx GPU_MAX_ALLOC_PERCENT 100
-setx GPU_SINGLE_ALLOC_PERCENT 100
-
-EthDcrMiner64.exe -epool eth-us-east1.nanopool.org:9999 -ewal 0x2af5e83cc99dfb40714c45c650cf746f99ab51e3/sifter1/bob@aol.com
-
-______
-
-After that, you can read the readme.txt and if you want, you can add additional triggers after your wallet/worker/email addy like -tt 80 (specifies target gpu temp of 80) -fanmax 90 -fanmin 50 (self explanatory) 
-
-Now, if you would like to donate a beer to me.. hit me up : 
-
-#### Monero
-
-!!!!!!!!!! POMYŚLEĆ
-
-## Litecoin
-
 ## Kopanie oraz przechowywanie
-
-https://etc.nanopool.org/
 
 Tool to mine https://www.nicehash.com/
 
@@ -222,8 +173,6 @@ Ministerstwo Cyfryzacji: https://mc.gov.pl/projekty/od-papierowej-do-cyfrowej-po
 http://www.wardynski.com.pl/w_publication/blockchain-inteligentne-kontrakty-i-dao/
 
 ## Poznaj kryptowaluty
-
-Korelacje http://correlation.cryptoalerts.verhoelen.de/
 
 https://coin.dance/
 
@@ -294,8 +243,6 @@ IDE plugin https://github.com/juanfranblanco/vscode-solidity
 
 ETH https://dapps.ethercasts.com/
 
-https://www.ethereum.org/token
-
 https://github.com/binary-signal/Ethereum-Tracker
 
 http://zeltsinger.com/?subscribe=already#blog_subscription-2
@@ -324,16 +271,7 @@ https://tokenmarket.net/ico-calendar
 
 # Smart contracts
 
-https://www.rinkeby.io/#stats
-
 https://consensys.github.io/smart-contract-best-practices/
-
-# Praca
-
-https://stackoverflow.com/jobs/companies/etcdev-team
-
-https://github.com/ethereumproject/volunteer/issues/27
-
 
 # Quant Trading
 
