@@ -42,12 +42,6 @@ https://interactivebrokers.github.io/tws-api/
 
 https://www.interactivebrokers.com/en/index.php?f=1350&s=API&t=recorded&p=1
 
-https://gnosis.pm/
-
-Calculus: https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg => Professor Leonard
-
-Sebastian Zadora Automaty https://vimeo.com/25289490
-
 https://aws.amazon.com/machine-learning/
 
 http://pandas.pydata.org/
