@@ -64,8 +64,6 @@ https://www.quantstart.com/
 
 https://lectures.quantecon.org/
 
-https://tickstory.com/download-tickstory/
-
 # Kryptowaluty
 
 https://bitcoinwisdom.com/
@@ -74,11 +72,7 @@ https://bitcoinmagazine.com/
 
 https://github.com/Scanate/EthList#getting-started
 
-Monitor All in One https://cryptowat.ch/
-
 !!! Accelerator https://www.viabtc.com
-
-Unconfirmed transactions: https://blockchain.info/unconfirmed-transactions?_=THANKS-BLOCKSTREAM
 
 https://en.bitcoin.it/wiki/Value_overflow_incident
 
@@ -94,8 +88,6 @@ https://tradeblock.com/markets/
 
 http://www.german-eth.com/
 
-## 
-
 https://www.gitbook.com/book/ethereum/frontier-guide/details
 
 https://www.ethnews.com/etherlive
@@ -104,11 +96,7 @@ https://www.ethnews.com/etherlive
 
 https://cryptocurrencyupdates.blogspot.com/2017/05/best-gpu-models-for-ethereum-and-other.html
 
-http://www.mycryptobuddy.com/EthereumMiningCalculator
-
 https://pik-online.pl/
-
-https://cryptosteel.com/
 
 https://blog.trezor.io/satoshilabs-launches-trezor-password-manager-the-ultimately-secure-no-master-password-cloud-1b260e5fbe6b
 
@@ -144,15 +132,7 @@ https://interledger.org/
 
 https://etherian.world/
 
-17.05 ICO https://aragon.network/
-
 https://github.com/swarmcity - https://youtu.be/S2ZOh_hokvw?t=4430
-
-https://www.bitaddress.org
-
-https://etherdelta.github.io
-
-https://www.gdax.com/ - short ETH
 
 # Funds and loans
 
@@ -187,27 +167,11 @@ https://github.com/binary-signal/Ethereum-Tracker
 
 http://zeltsinger.com/?subscribe=already#blog_subscription-2
 
-
-## Slack channels
-
-https://blockchainbytes.slack.com
-
-
 # Calculus
 
 https://www.khanacademy.org/math/calculus-home
 
 https://pl.wikipedia.org/wiki/Rachunek_lambda
-
-## Charts and data
-
-http://coinmarketcap.com/charts/#dominance-percentage
-
-## ICOs, trading
-
-https://www.icoalert.com/
-
-https://tokenmarket.net/ico-calendar
 
 # Smart contracts
 
