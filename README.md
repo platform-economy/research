@@ -34,13 +34,9 @@ https://websim.worldquantchallenge.com/en/cms/wqc/home/
 
 http://www.cargometrics.com/
 
-https://www.youtube.com/watch?v=2pWv7GOvuf0
-
 https://www.kaggle.com/c/two-sigma-financial-modeling
 
 https://levelwander.blogspot.com/
-
-https://getline.in
 
 https://interactivebrokers.github.io/tws-api/
 
@@ -86,8 +82,6 @@ Unconfirmed transactions: https://blockchain.info/unconfirmed-transactions?_=THA
 
 https://en.bitcoin.it/wiki/Value_overflow_incident
 
-https://www.reddit.com/r/ethtrader/
-
 https://www.worldcoinindex.com
 
 https://fbs.com - BTCUSD na MetaTrader
@@ -95,14 +89,6 @@ https://fbs.com - BTCUSD na MetaTrader
 https://localbitcoins.com/
 
 http://www.newsbtc.com/
-
-https://bittrex.com/
-
-https://poloniex.com/
-
-https://www.coinbase.com/
-
-https://www.bitfinex.com/
 
 https://tradeblock.com/markets/
 
@@ -112,49 +98,19 @@ http://www.german-eth.com/
 
 https://www.gitbook.com/book/ethereum/frontier-guide/details
 
-
-### Kopanie
-
-Coding: https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-and-irc
-
-http://ethereum.pl/
-
 https://www.ethnews.com/etherlive
 
 !!! [ETH] https://timesofethereum.com/
 
-Ether scan: https://etherscan.io/
-
-!!! https://coinmarketcap.com/currencies/ethereum/#markets
-
 https://cryptocurrencyupdates.blogspot.com/2017/05/best-gpu-models-for-ethereum-and-other.html
 
-https://www.nicehash.com/
-
 http://www.mycryptobuddy.com/EthereumMiningCalculator
-
-
-## Kopanie oraz przechowywanie
-
-Tool to mine https://www.nicehash.com/
-
-https://poloniex.com/
 
 https://pik-online.pl/
 
 https://cryptosteel.com/
 
 https://blog.trezor.io/satoshilabs-launches-trezor-password-manager-the-ultimately-secure-no-master-password-cloud-1b260e5fbe6b
-
-http://whattomine.com/
-
-https://ethtrade.org/education
-
-Kalkulator http://www.coinwarz.com/cryptocurrency
-
-https://wallet.mycelium.com/
-
-### Aplikacje przydatne
 
 https://tab-trader.com/
 
@@ -172,8 +128,6 @@ Ministerstwo Cyfryzacji: https://mc.gov.pl/projekty/od-papierowej-do-cyfrowej-po
 
 http://www.wardynski.com.pl/w_publication/blockchain-inteligentne-kontrakty-i-dao/
 
-## Poznaj kryptowaluty
-
 https://coin.dance/
 
 https://blockgeeks.com/guides/
@@ -184,8 +138,6 @@ Gartner: http://www.gartner.com/technology/research/blockchain
 
 http://maxkordek.com/expo.pdf
 
-ICO's http://icorating.com/
-
 http://www.the-blockchain.com/docs/Hyperledger%20Whitepaper.pdf
 
 https://interledger.org/
@@ -195,18 +147,6 @@ https://etherian.world/
 17.05 ICO https://aragon.network/
 
 https://github.com/swarmcity - https://youtu.be/S2ZOh_hokvw?t=4430
-
-### NeuFund
-
-https://github.com/Neufund/ESOP
-
-https://neufund.org/esop/
-
-## Portfele oraz giełdy
-
-https://mycelium.com/
-
-https://jaxx.io/
 
 https://www.bitaddress.org
 
