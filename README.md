@@ -16,8 +16,6 @@ https://panteracapital.com/
 
 https://www.quantiacs.com/
 
-https://www.rentec.com
-
 https://www.winton.com/en/
 
 https://www.citadel.com/
@@ -25,8 +23,6 @@ https://www.citadel.com/
 https://www.twosigma.com/
 
 https://www.worldquant.com
-
-http://www.wolferesearch.com/
 
 https://websim.worldquantchallenge.com/en/cms/wqc/home/
 
